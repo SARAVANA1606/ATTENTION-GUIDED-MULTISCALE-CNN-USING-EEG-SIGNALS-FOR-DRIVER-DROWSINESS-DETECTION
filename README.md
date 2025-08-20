@@ -38,7 +38,6 @@ Each model enhances EEG feature extraction, attention to critical signal regions
 | EEG-ATCNet                                              | 94.2%    | 0.94     | 0.94   | 0.95      |
 | Multiscale CNN + CBAM                                   | 97.05%   | 0.97     | 0.97   | 0.97      |
 | Multiscale CNN + CBAM + K-Fold                          | 96.28%   | 0.96     | 0.96   | 0.96      |
-| Multiscale CNN + CBAM + ICNN                            | 96.61%   | 0.97     | 0.97   | 0.97      |
 | Multiscale CNN + SE Attention                           | 96.5%    | 0.97     | 0.95   | 0.98      |
 
 ---
