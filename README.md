@@ -50,7 +50,6 @@ Each model enhances EEG feature extraction, attention to critical signal regions
 - **Attention Mechanisms**:
   - **CBAM** (Convolutional Block Attention Module)
   - **SE-Attention** (Squeeze-and-Excitation)
-  - **ICNN** (Improved Channel-wise Nonlinear Attention)
 - **K-Fold Cross-Validation**: To ensure generalization across EEG samples
 
 
